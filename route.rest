@@ -18,7 +18,7 @@ Content-Type: application/json
 
 ###
 
-PATCH http://localhost:3000/subscribers/6112468e944bf9264c802e42
+PATCH http://localhost:3000/subscribers/61124f3114736d378c661cbc
 Content-Type: application/json
 
 {
@@ -28,5 +28,5 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3000/subscribers/6112468e944bf9264c802e42
+DELETE http://localhost:3000/subscribers/61124f3114736d378c661cbc
 Content-Type: application/json
